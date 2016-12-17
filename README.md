@@ -1,3 +1,0 @@
-# plugin
-plug-in
-WebPluginInstaller
